@@ -39,7 +39,7 @@
   </div>
   <div class="footer d-flex justify-content-center align-items-center flex-column">
     <router-link to="/admin" class="my-1">Admin</router-link>
-    <a href="https://github.com/Reese-Sanders/HappyMoped" class="my-1">Github</a>
+    <a href="https://github.com/Reese-Sanders/creative4" class="my-1">Github</a>
     <p class="footer-title my-1">&copy; 2022 Happy Moped LLC</p>
   </div>
 </div>
