@@ -1,0 +1,37 @@
+.hamburger-icon img {
+    src: url("/assets/icons/bars-solid.svg");
+    display:inline-block;
+    width:1.5em;
+    height:1.5em;
+    vertical-align:middle;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:100%
+}
+
+.hidden {
+    display: none !important;
+}
+
+.close-icon {
+    background-image: url("assets/icons/x-solid.svg");
+    display:inline-block;
+    width:1.5em;
+    height:1.5em;
+    vertical-align:middle;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:100%
+}
+
+.close-icon.hidden {
+    background-image: url("");
+    display:inline-block;
+    width:1.5em;
+    height:1.5em;
+    vertical-align:middle;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:100%
+}
+
